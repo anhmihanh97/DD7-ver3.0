@@ -1,0 +1,157 @@
+.manager-category:hover{
+	cursor: pointer;
+	background-color: #20a8d8 !important;
+}
+
+.mx-4 {
+	margin-top: 100px;
+}
+
+.paging {
+	display: flex;
+	justify-content: center;
+}
+
+
+.main .table tr {
+    font-size: 14px;
+}
+
+.fa-edit {
+    font-size: 35px !important;
+}
+
+.fa-times-circle {
+	font-size: 35px !important;
+}
+
+.product-image-admin {
+	background: url("../images/product-details/1.jpg") no-repeat -5px -5px; 
+}
+
+/*Start product*/
+
+.main input {
+
+}
+
+.main-content > .row {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.main img {
+    width: 90%;
+    height: auto;
+    margin-top: 25px;
+    margin-left: 15px;
+}
+
+.main-content > .row > .row h6 {
+	margin-top: 25px;
+	margin-right: 15px;
+}
+
+.main-content > .row > .row {
+	margin-right: 0px;
+}
+
+.btn-edit-product .col-lg-12{
+    display: flex;
+    justify-content: flex-end; 	
+}
+
+.btn-edit-product .col-lg-12 button {
+	margin-left: 15px;
+}
+
+.btn-delete {
+	display: flex;
+	justify-content: flex-end;
+}
+
+.btn-delete button {
+	margin-left: 15px;
+}
+
+.main-content table tr:hover {
+	cursor: pointer;
+}
+
+.main-content table tr span:hover {
+	color: red;
+}
+
+.main-content h6 {
+	margin-top: 10px;
+}
+
+.btn-add-product .col-lg-12 {
+	display: flex;
+	justify-content: flex-end;
+}
+
+.btn-add-product {
+	margin-top: 15px;
+}
+
+.btn-add-product button {
+	margin-left: 15px;
+}
+
+.title-product-admin {
+	display: flex;
+	justify-content: space-between;
+}
+
+.title-product-admin input{
+    padding: 5px;
+    height: 32px;
+    width: 300px;
+    margin-top: 40px;
+}
+
+.fa-edit {
+	color: black;
+}
+
+.txt-category {
+	float: left;
+    margin-top: 0px !important;
+    margin-right: 20px;
+    margin-bottom: 34px;
+    padding: 18px !important;
+
+}
+
+.fa-lock {
+	font-size: 24px;
+}
+
+.showProductAmount {
+    display: flex;
+    align-items: center;
+}
+
+.main table tr td img {
+	margin: 0px;
+    height: 44px;
+    width: auto;
+}
+
+/*End product*/
+
+/*Start manager bill*/
+
+.main-content table tr td, 
+.main-content table tr th{
+	vertical-align: middle;
+}
+
+.main .table tr:not(.thead):hover {
+	background-color: #17a2b82e !important
+}
+
+
+
+/*End manager bill*/
